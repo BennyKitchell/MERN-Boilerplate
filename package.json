@@ -1,14 +1,14 @@
 {
-  "name": "foodpicker",
+  "name": "mern-boilerplate",
   "version": "1.0.0",
-  "description": "A MERN app to pick your lunch",
+  "description": "A MERN boilerplate",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BennyKitchell/FoodPicker.git"
+    "url": "git+https://github.com/BennyKitchell/MERN-Boilerplate.git"
   },
   "author": "Benny Kitchell",
   "license": "MIT",
