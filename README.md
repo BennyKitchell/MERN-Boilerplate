@@ -1,2 +1,2 @@
-# FoodPicker
-A web page application that chooses a restaurant 
+# MERN Boiler Plate
+A boiler plate for a MERN application
